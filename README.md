@@ -1,22 +1,18 @@
-### Arif Zahid YÜKSEL!
+### Arif Zahid YÜKSEL
 
-Hi 👋
+Merhaba 👋
 
----
+Bilgisayar Mühendisliği öğrencisi olarak, kendimi özellikle web teknolojileri alanında geliştirmeye çalışıyorum. Aynı zamanda, TEKNOFEST takımımızın kaptanı olarak, inovatif projelerimizi hayata geçirme misyonunu üstleniyorum. Amacım, teorik bilgimi pratikle birleştirerek hem kişisel hem de ekip olarak başarılı işlere imza atmak.
 
-#### Ferramentas ve Teknolojiler
+#### Kullandığım Teknolojiler
 
 Şu anda aktif olarak **.NET öğreniyorum**.
 
-<img align="left" alt="HTML5" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-<img align="left" alt="CSS3" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-<img align="left" alt="Bootstrap" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-<img align="left" alt="Tailwind CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-<img align="left" alt="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="left" alt="React" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="left" alt=".NET" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-plain.svg">
-
----
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,tailwind,js,react,dotnet" />
+  </a>
+</p>
 
 #### İletişim
 
