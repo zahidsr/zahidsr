@@ -17,3 +17,4 @@ Bilgisayar Mühendisliği öğrencisi olarak, kendimi özellikle web teknolojile
 #### İletişim
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sizin_kullanici_adiniz)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:az.yuksel61@gmail.com)
