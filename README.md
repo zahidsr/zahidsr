@@ -10,7 +10,7 @@ Bilgisayar Mühendisliği öğrencisi olarak, kendimi özellikle web teknolojile
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,tailwind,js,react,dotnet" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,tailwind,js,react,dotnet,cpp" />
   </a>
 </p>
 
