@@ -6,11 +6,11 @@ Bilgisayar Mühendisliği öğrencisi olarak, kendimi özellikle web teknolojile
 
 #### Kullandığım Teknolojiler
 
-Şu anda aktif olarak **.NET öğreniyorum**.
+Şu anda aktif olarak **Python öğreniyorum**.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,tailwind,jquery,js,react,dotnet,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,tailwind,jquery,js,react,python,cpp" />
   </a>
 </p>
 
